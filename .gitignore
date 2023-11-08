@@ -28,6 +28,7 @@
 *.lzma
 *.lzo
 *.mod.c
+*.mod
 *.o
 *.o.*
 *.order
